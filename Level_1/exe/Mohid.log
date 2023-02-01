@@ -1,0 +1,653 @@
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Construct model MPI ID =           2
+ Construct model MPI ID =           3
+ -------------------------- MODEL -------------------------
+ Construct model MPI ID =           1
+ 
+ Constructing      : ..
+ -------------------------- MODEL -------------------------
+ ID                :            1
+ 
+ Construct model MPI ID =           0
+ -------------------------- MODEL -------------------------
+ Constructing      : ..
+ 
+ ID                :            1
+ Constructing      : ..
+ -------------------------- MODEL -------------------------
+ ID                :            1
+ 
+ Constructing      : ..
+ ID                :            1
+ MPI_ID =           2
+ DataFile =..\data\Model_1.dat
+ MPI_ID =           3
+ DataFile =..\data\Model_1.dat
+ MPI_ID =           1
+ DataFile =..\data\Model_1.dat
+ MPI_ID =           0
+ DataFile =..\data\Model_1.dat
+ halo_points           3
+ Limits            3         670         503
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ mpi_send           3
+ halo_points           3
+ Limits            2         502         336
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ mpi_send           2
+ halo_points           3
+ Limits            1         335         168
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ mpi_send           1
+ halo_points           3
+ Limits            0         167           1
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ mpi_receive from to            1           0
+ mpi_receive from to            2           0
+ mpi_receive from to            3           0
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ ----------------------- DISCHARGES -----------------------
+ ----------------------- DISCHARGES -----------------------
+ ----------------------- DISCHARGES -----------------------
+ ----------------------- DISCHARGES -----------------------
+ 
+ 
+ 
+ 
+ Number of Discharges :            8
+ Number of Discharges :            8
+ Number of Discharges :            8
+ Number of Discharges :            8
+ 
+ 
+ 
+ 
+ ----Discharge        : Caudal Amazonas
+ ----Discharge        : Caudal Amazonas
+ ----Discharge        : Caudal Amazonas
+ ----Discharge        : Caudal Amazonas
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Discharge        : Caudal Tapajos
+ ----Discharge        : Caudal Tapajos
+ ----Discharge        : Caudal Tapajos
+ ----Discharge        : Caudal Tapajos
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Discharge        : Caudal Xingu_BeloMonte
+ ----Discharge        : Caudal Xingu_BeloMonte
+ ----Discharge        : Caudal Xingu_BeloMonte
+ ----Discharge        : Caudal Xingu_BeloMonte
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Discharge        : Caudal Xingu_Pimental
+ ----Discharge        : Caudal Xingu_Pimental
+ ----Discharge        : Caudal Xingu_Pimental
+ ----Discharge        : Caudal Xingu_Pimental
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Discharge        : Caudal Tocantins
+ ----Discharge        : Caudal Tocantins
+ ----Discharge        : Caudal Tocantins
+ ----Discharge        : Caudal Tocantins
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Discharge        : Caudal Guama
+ ----Discharge        : Caudal Guama
+ ----Discharge        : Caudal Guama
+ ----Discharge        : Caudal Guama
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Discharge        : Caudal Capim
+ ----Discharge        : Caudal Capim
+ ----Discharge        : Caudal Capim
+ ----Discharge        : Caudal Capim
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Discharge        : Caudal Acara
+ ----Discharge        : Caudal Acara
+ ----Discharge        : Caudal Acara
+ ----Discharge        : Caudal Acara
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ ----Num of Properties:            2
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ I    , J  =         112           2
+ I    , J  =         112     -999999
+ I    , J  =         112     -999999
+ I    , J  =         112     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge inside the domain - Caudal Amazonas - ..
+ Discharge outside the domain - Caudal Amazonas - ..
+ Discharge outside the domain - Caudal Amazonas - ..
+ Discharge outside the domain - Caudal Amazonas - ..
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ I    , J  =          84          47
+ I    , J  =          84     -999999
+ I    , J  =          84     -999999
+ I    , J  =          84     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge inside the domain - Caudal Tapajos - ..
+ Discharge outside the domain - Caudal Tapajos - ..
+ Discharge outside the domain - Caudal Tapajos - ..
+ Discharge outside the domain - Caudal Tapajos - ..
+ DISCHARGE IGNORED
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ I    , J  =          41     -999999
+ I    , J  =          41          66
+ I    , J  =          41     -999999
+ I    , J  =          41     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge outside the domain - Caudal Xingu_BeloMonte - ..
+ Discharge inside the domain - Caudal Xingu_BeloMonte - ..
+ Discharge outside the domain - Caudal Xingu_BeloMonte - ..
+ Discharge outside the domain - Caudal Xingu_BeloMonte - ..
+ DISCHARGE IGNORED
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ I    , J  =          41     -999999
+ I    , J  =          41          66
+ I    , J  =          41     -999999
+ I    , J  =          41     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge outside the domain - Caudal Xingu_Pimental - ..
+ Discharge inside the domain - Caudal Xingu_Pimental - ..
+ Discharge outside the domain - Caudal Xingu_Pimental - ..
+ Discharge outside the domain - Caudal Xingu_Pimental - ..
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ I    , J  =           2     -999999
+ I    , J  =           2     -999999
+ I    , J  =           2          21
+ I    , J  =           2     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge outside the domain - Caudal Tocantins - ..
+ Discharge outside the domain - Caudal Tocantins - ..
+ Discharge inside the domain - Caudal Tocantins - ..
+ Discharge outside the domain - Caudal Tocantins - ..
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ I    , J  =         129     -999999
+ I    , J  =         129     -999999
+ I    , J  =         129         133
+ I    , J  =         129     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge outside the domain - Caudal Guama - ..
+ Discharge outside the domain - Caudal Guama - ..
+ Discharge inside the domain - Caudal Guama - ..
+ Discharge outside the domain - Caudal Guama - ..
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ I    , J  =         129     -999999
+ I    , J  =         129     -999999
+ I    , J  =         129         133
+ I    , J  =         129     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge outside the domain - Caudal Capim - ..
+ Discharge outside the domain - Caudal Capim - ..
+ Discharge inside the domain - Caudal Capim - ..
+ Discharge outside the domain - Caudal Capim - ..
+ DISCHARGE IGNORED
+ DISCHARGE IGNORED
+ DISCHARGE WITH VALID LOCATION
+ DISCHARGE IGNORED
+ I    , J  =         115     -999999
+ I    , J  =         115     -999999
+ I    , J  =         115         107
+ I    , J  =         115     -999999
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ STAT_CALL =           0
+ Discharge outside the domain - Caudal Acara - ..
+ Discharge outside the domain - Caudal Acara - ..
+ Discharge inside the domain - Caudal Acara - ..
+ Discharge outside the domain - Caudal Acara - ..
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ Border limits  -55.5101333340000       -40.6643000000000     
+  -3.77793333400000        8.90123000000000     
+ End construct assimilation, property number :           3
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    14.2238838860092     
+ In Grid Cell[i,j] :          504          10
+ 
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            0
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ End construct assimilation, property number :           3
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    13.3577877364078     
+ In Grid Cell[i,j] :          290         136
+ 
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            0
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ End construct assimilation, property number :           3
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    14.0582885055189     
+ In Grid Cell[i,j] :          506         162
+ 
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            0
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ End construct assimilation, property number :           3
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    14.1072356534498     
+ In Grid Cell[i,j] :          510          27
+ 
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            0
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ 
+ 
+ 
+ 
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ 
+ 
+ 
+ 
+ ILS, IUS, JLS, JUS           0         511           0         671
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :           85s
+ Remaining (aprox.)     :         8159s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.0954
+ Seconds per Iteration  :         5.7221s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8: 9:12
+ End of the run         : 2023: 1:31:10:25:12
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :           85s
+ Remaining (aprox.)     :         8159s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.0954
+ Seconds per Iteration  :         5.7211s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8: 9:12
+ End of the run         : 2023: 1:31:10:25:12
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :           85s
+ Remaining (aprox.)     :         8159s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.0954
+ Seconds per Iteration  :         5.7229s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8: 9:12
+ End of the run         : 2023: 1:31:10:25:12
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :           85s
+ Remaining (aprox.)     :         8159s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.0954
+ Seconds per Iteration  :         5.7189s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8: 9:12
+ End of the run         : 2023: 1:31:10:25:12
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          170s
+ Remaining (aprox.)     :         8002s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.0946
+ Seconds per Iteration  :         5.6251s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8:10:37
+ End of the run         : 2023: 1:31:10:23:59
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          170s
+ Remaining (aprox.)     :         8003s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.0946
+ Seconds per Iteration  :         5.6257s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8:10:37
+ End of the run         : 2023: 1:31:10:24: 0
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          170s
+ Remaining (aprox.)     :         8002s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.0946
+ Seconds per Iteration  :         5.6252s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8:10:37
+ End of the run         : 2023: 1:31:10:23:59
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2018:12:29: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          170s
+ Remaining (aprox.)     :         8003s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.0946
+ Seconds per Iteration  :         5.6257s
+ -----System Time------------------------------------------
+ System time            : 2023: 1:31: 8:10:37
+ End of the run         : 2023: 1:31:10:24: 0
+
+
+
+
+
+
+
+job aborted:
+[ranks] message
+
+[0] job terminated by the user
+
+[1-3] terminated
+
+---- error analysis -----
+
+[0] on PROJETOBAIAS
+ctrl-c was hit. job aborted by the user.
+
+---- error analysis -----

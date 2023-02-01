@@ -1,0 +1,293 @@
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190101_20190102\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190102_20190103\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190103_20190104\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190104_20190105\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190105_20190106\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190106_20190107\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190107_20190108\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190108_20190109\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190109_20190110\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190110_20190111\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190111_20190112\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190112_20190113\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190113_20190114\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190114_20190115\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190115_20190116\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190116_20190117\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190117_20190118\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190118_20190119\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190119_20190120\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190120_20190121\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190121_20190122\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190122_20190123\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190123_20190124\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190124_20190125\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190125_20190126\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190126_20190127\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190127_20190128\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190128_20190129\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190129_20190130\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190130_20190131\Hydrodynamic_2.hdf5
+<EndHDF5File>
+<BeginHDF5File>
+NAME       : ..\..\Level1\20190131_20190201\Hydrodynamic_2.hdf5
+<EndHDF5File>
+
+
+START_TIME     : 2019  01 01  0  0  0
+END_TIME       : 2019  02 01 0  0  0
+ 
+COMPUTE_RESIDUAL : 0
+ 
+WATERPOINTS_NAME : WaterPoints2D
+ 
+!************************************************************************* 
+ 
+<BeginParameter>
+HDF_GROUP      : /Results/water level
+PROPERTY       : water level
+<EndParameter>
+
+<BeginParameter>
+HDF_GROUP      : /Results/velocity modulus
+PROPERTY       : velocity modulus
+<EndParameter>
+
+<BeginParameter>
+HDF_GROUP      : /Results/velocity U
+PROPERTY       : velocity U
+<EndParameter>
+
+<BeginParameter>
+HDF_GROUP      : /Results/velocity V
+PROPERTY       : velocity V
+<EndParameter>
+  
+!************************************************************************* 
+<BeginTimeSerie>
+NAME           : 10526
+COORD_X        : -50.412902
+COORD_Y        :  0.508361
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10660
+COORD_X        : -51.039585
+COORD_Y        :  0.034780
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10515
+COORD_X        : -49.984686
+COORD_Y        : -0.153147
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10505
+COORD_X        : -50.489776
+COORD_Y        : -0.014744
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+
+<BeginTimeSerie>
+NAME           : 10625
+COORD_X        : -51.699648
+COORD_Y        : -0.801000
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10540
+COORD_X        : -50.828333
+COORD_Y        : -0.246667
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10549
+COORD_X        : -50.820145
+COORD_Y        : -1.004104
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10577
+COORD_X        : -50.910769
+COORD_Y        : -1.136343
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10675
+COORD_X        : -51.895000
+COORD_Y        : -1.150000
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10592
+COORD_X        : -50.275963
+COORD_Y        : -1.787599
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10583
+COORD_X        : -49.798047
+COORD_Y        : -1.814956
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10568
+COORD_X        : -49.535208
+COORD_Y        : -1.719207
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10630
+COORD_X        : -51.411078
+COORD_Y        : -0.453808
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10511
+COORD_X        : -51.650945
+COORD_Y        : -1.407939
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10576
+COORD_X        : -50.592931
+COORD_Y        : -1.680024
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10571
+COORD_X        : -50.483333
+COORD_Y        : -1.691667
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : 10516
+COORD_X        : -52.576910
+COORD_Y        : -1.533190
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : Colares (PP_000007)
+COORD_X        : -48.29718055555556
+COORD_Y        : -0.934161111111111
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : Joanes (PP_000012)
+COORD_X        : -48.50726944444445
+COORD_Y        : -0.8814527777777779
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : Belem (PP_000001)
+COORD_X        : -48.497911
+COORD_Y        :  -1.394847
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : Caripetuba-Abaetetuba (PP_000005)
+COORD_X        : -48.908060
+COORD_Y        :  -1.652539
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : Barcarena_terminalHydro (PP_000004)
+COORD_X        : -48.77539166666666
+COORD_Y        : -1.567422222222222
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : Rio Para (PP_000014)
+COORD_X        : -49.34141666666667
+COORD_Y        : -1.721583333333334
+LOCALIZATION_K :   1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME           : Ilha de Cotijuba (PP_000008)
+COORD_X        : -48.55942777777778
+COORD_Y        : -1.223561111111111
+LOCALIZATION_K :   1
+<EndTimeSerie>

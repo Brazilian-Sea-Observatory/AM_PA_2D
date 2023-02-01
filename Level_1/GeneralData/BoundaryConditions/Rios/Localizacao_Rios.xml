@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamedGeometryCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Proj4String> +proj=longlat +datum=WGS84 +no_defs</Proj4String>
+  <NamedGeometries>
+    <NamedGeometry>
+      <ID>0</ID>
+      <Name>Amazonas</Name>
+      <GeometryWKT>POINT (-55.5039 -1.936)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+	 </NamedGeometry>
+	 <NamedGeometry>
+	  <ID>1</ID>
+      <Name>Tapajos</Name>
+      <GeometryWKT>POINT (-54.7511 -2.4025)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+	<NamedGeometry>
+	  <ID>2</ID>
+      <Name>Xingu_BeloMonte</Name>
+      <GeometryWKT>POINT (-51.7013 -3.1205)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+	<NamedGeometry>
+	  <ID>3</ID>
+      <Name>Xingu_Pimental</Name>
+      <GeometryWKT>POINT (-51.7013 -3.1205)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+	<NamedGeometry>
+	  <ID>4</ID>
+      <Name>Tocantins</Name>
+      <GeometryWKT>POINT (-49.653 -3.7727)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+	<NamedGeometry>
+	  <ID>5</ID>
+      <Name>Guama</Name>
+      <GeometryWKT>POINT (-47.7839 -1.6531)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+	<NamedGeometry>
+	  <ID>6</ID>
+      <Name>Capim</Name>
+      <GeometryWKT>POINT (-47.7839 -1.6531)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+	<NamedGeometry>
+	  <ID>7</ID>
+      <Name>Acara</Name>
+      <GeometryWKT>POINT (-48.218 -1.8856)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+  </NamedGeometries>
+</NamedGeometryCollection>

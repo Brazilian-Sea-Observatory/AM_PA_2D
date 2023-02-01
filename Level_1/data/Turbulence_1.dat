@@ -1,0 +1,7 @@
+!Horizontal Viscosity - 10% of grid size. in meters. is a good starting value
+VISCOSITY_H               : 200  !m2/s
+
+VISCOSITY_V               : 0.  !m2/s
+
+!MODTURB: turbulence_equation
+

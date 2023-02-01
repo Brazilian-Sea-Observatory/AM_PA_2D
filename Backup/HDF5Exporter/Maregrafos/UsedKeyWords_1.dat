@@ -1,0 +1,297 @@
+ IN_MODEL                  Unknown Client            Do not have               From File                 TIME_SERIES.DAT                                              YES
+ EXPORT_TYPE               ExportToTimeSerie         1                         From File                 1                                                            YES
+ START_TIME                ExportToTimeSerie         Do not have               From File                 2019.00000000000 1.00000000000000 1.00000000000000 0.0000000 YES
+ END_TIME                  ExportToTimeSerie         Do not have               From File                 2019.00000000000 2.00000000000000 1.00000000000000 0.0000000 YES
+ VARIABLE_GRID             ExportToTimeSerie         FALSE                     From File                 FALSE                                                        YES
+ GRID_FILENAME             ConvertToHDF5             Do not have               From File                 ************                                                 YES
+ TIME_GROUP                ExportToTimeSerie         Time                      From File                 Time                                                         YES
+ DECIMATION_FACTOR         ExportToTimeSerie         0                         From File                 0                                                            YES
+ BEST_TIME_SERIE_OUT       ExportToTimeSerie         FALSE                     From File                 FALSE                                                        YES
+ PROPERTY                  ExportToTimeSerie         Do not have               From Block                water level                                                  YES
+ HDF_GROUP                 ExportToTimeSerie         /Results/water level      From Block                /Results/water level                                         YES
+ PROPERTY                  ExportToTimeSerie         Do not have               From Block                velocity modulus                                             YES
+ HDF_GROUP                 ExportToTimeSerie         /Results/velocity modulus From Block                /Results/velocity modulus                                    YES
+ PROPERTY                  ExportToTimeSerie         Do not have               From Block                velocity U                                                   YES
+ HDF_GROUP                 ExportToTimeSerie         /Results/velocity U       From Block                /Results/velocity U                                          YES
+ PROPERTY                  ExportToTimeSerie         Do not have               From Block                velocity V                                                   YES
+ HDF_GROUP                 ExportToTimeSerie         /Results/velocity V       From Block                /Results/velocity V                                          YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190101_20190102\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190102_20190103\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190103_20190104\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190104_20190105\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190105_20190106\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190106_20190107\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190107_20190108\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190108_20190109\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190109_20190110\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190110_20190111\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190111_20190112\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190112_20190113\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190113_20190114\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190114_20190115\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190115_20190116\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190116_20190117\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190117_20190118\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190118_20190119\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190119_20190120\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190120_20190121\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190121_20190122\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190122_20190123\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190123_20190124\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190124_20190125\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190125_20190126\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190126_20190127\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190127_20190128\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190128_20190129\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190129_20190130\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190130_20190131\Hydrodynamic_2.hdf5           YES
+ NAME                      ExportToTimeSerie         Do not have               From Block                ..\..\Level1\20190131_20190201\Hydrodynamic_2.hdf5           YES
+ WATERPOINTS_GROUP         ExportToTimeSerie         /Grid                     From File                 /Grid                                                        YES
+ CHECK_PROPERTY            ExportToTimeSerie         TRUE                      From File                 TRUE                                                         YES
+ END_TS_PER_PARAMETER      ExportToTimeSerie         FALSE                     From File                 FALSE                                                        YES
+ MAX_BUFFER_SIZE           ModuleTimeSerie           100000                    From File                 100000                                                       YES
+ COMPUTE_RESIDUAL          ModuleTimeSerie           TRUE                      From File                 FALSE                                                        YES
+ REPLACE_PATH              ModuleTimeSerie           ****                      From File                 ****                                                         YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10526                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.4129020000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                0.508361000000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10660                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -51.0395850000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                3.478000000000000E-002                                       YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10515                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -49.9846860000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -0.153147000000000                                           YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10505                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.4897760000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.474400000000000E-002                                      YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10625                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -51.6996480000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -0.801000000000000                                           YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10540                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.8283330000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -0.246667000000000                                           YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10549                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.8201450000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.00410400000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10577                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.9107690000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.13634300000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10675                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -51.8950000000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.15000000000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10592                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.2759630000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.78759900000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10583                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -49.7980470000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.81495600000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10568                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -49.5352080000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.71920700000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10630                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -51.4110780000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -0.453808000000000                                           YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10511                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -51.6509450000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.40793900000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10576                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.5929310000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.68002400000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10571                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -50.4833330000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.69166700000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                10516                                                        YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -52.5769100000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.53319000000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                Colares (PP_000007)                                          YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -48.2971805555556                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -0.934161111111111                                           YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                Joanes (PP_000012)                                           YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -48.5072694444444                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -0.881452777777778                                           YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                Belem (PP_000001)                                            YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -48.4979110000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.39484700000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                Caripetuba-Abaetetuba (PP_000005)                            YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -48.9080600000000                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.65253900000000                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                Barcarena_terminalHydro (PP_000004)                          YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -48.7753916666667                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.56742222222222                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                Rio Para (PP_000014)                                         YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -49.3414166666667                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.72158333333333                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ NAME                      ModuleTimeSerie           *****                     From Block                Ilha de Cotijuba (PP_000008)                                 YES
+ DEPTH_LEVEL               ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ COORD_X                   ModuleTimeSerie           Do not have               From Block                -48.5594277777778                                            YES
+ COORD_Y                   ModuleTimeSerie           Do not have               From Block                -1.22356111111111                                            YES
+ LOCALIZATION_K            ModuleTimeSerie           Do not have               From Block                1                                                            YES
+ LATITUDE                  ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ LONGITUDE                 ModuleTimeSerie           Do not have               From Block                -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ FIRST_OUTPUT_DT           ModuleTimeSerie           0.00000000000000          From File                 0.00000000000000                                             YES
+ FIRST_OUTPUT_TIME         ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015 -9.900000000000000E+015 -9.900000000 YES
+ DT_OUTPUT_TIME            ModuleTimeSerie           Do not have               From File                 -9.900000000000000E+015                                      YES
+ ROOT_SRT                  Unknown Client            Do not have               From File                 ************                                                 YES
+ ROOT                      Unknown Client            Do not have               From File                 ************                                                 YES
+ RAIZ                      Unknown Client            Do not have               From File                 ************                                                 YES
