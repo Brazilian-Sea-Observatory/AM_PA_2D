@@ -50,5 +50,17 @@
       <GeometryWKT>POINT (-48.218 -1.8856)</GeometryWKT>
       <IsSelected>false</IsSelected>
     </NamedGeometry>
+	<NamedGeometry>
+	  <ID>8</ID>
+      <Name>Anapu</Name>
+      <GeometryWKT>POINT (-51.07 -1.8199)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+	<NamedGeometry>
+	  <ID>9</ID>
+      <Name>Alto Pacaja</Name>
+      <GeometryWKT>POINT (-50.8817 -2.4707)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
   </NamedGeometries>
 </NamedGeometryCollection>

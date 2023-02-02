@@ -204,3 +204,53 @@ DEFAULTVALUE              : 0.
 <<endproperty>>
 <enddischarge>
 
+<begindischarge>
+NAME                      : Caudal Anapu
+DESCRIPTION               : Average
+COORD_X                   : -51.07
+COORD_Y                   : -1.8199
+DISCHARGE_UNIFORM         : 1
+!DEFAULT_FLOW_VALUE        : 100
+DATA_BASE_FILE            : ..\GeneralData\BoundaryConditions\Rios\SerieVazao_Anapu.dat
+FLOW_COLUMN               : 2
+
+<<beginproperty>>
+NAME                      : cohesive sediment
+UNITS                     : mg/l
+DESCRIPTION               : teste
+DEFAULTVALUE              : 20.
+<<endproperty>>
+
+<<beginproperty>>
+NAME                      : salinity
+UNITS                     : psu
+DESCRIPTION               : salinity in the river
+DEFAULTVALUE              : 0.
+<<endproperty>>
+<enddischarge>
+
+
+<begindischarge>
+NAME                      : Caudal Alto Pacaja
+DESCRIPTION               : Average
+COORD_X                   : -50.8817
+COORD_Y                   : -2.4707
+DISCHARGE_UNIFORM         : 1
+!DEFAULT_FLOW_VALUE        : 100
+DATA_BASE_FILE            : ..\GeneralData\BoundaryConditions\Rios\SerieVazao_AltoPacaja.dat
+FLOW_COLUMN               : 2
+
+<<beginproperty>>
+NAME                      : cohesive sediment
+UNITS                     : mg/l
+DESCRIPTION               : teste
+DEFAULTVALUE              : 20.
+<<endproperty>>
+
+<<beginproperty>>
+NAME                      : salinity
+UNITS                     : psu
+DESCRIPTION               : salinity in the river
+DEFAULTVALUE              : 0.
+<<endproperty>>
+<enddischarge>
